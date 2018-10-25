@@ -37,3 +37,9 @@ Here is the list of devices and editors to implement the solotion
   - Define Security framework & implement security module
   - Develop Proof of Concept
   - Deploy and  Display result
+
+## Deliverables
+
+  - Reference Architectural Document -> By Dec 2018
+  - Comparison between different Framework and PaaS solution  By Dec 2018
+  - Working PoC by Mar  2019
