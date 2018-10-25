@@ -17,3 +17,23 @@ Here is the list of devices and editors to implement the solotion
 
 * [ESP8266] - The ESP8266 is a low-cost Wi-Fi microchip with full TCP/IP stack and microcontroller capability 
 * [Raspberry Pi 3] - The Raspberry Pi 3 is a series of small single-board computers with microcontroller capability 
+
+
+
+
+
+
+## Next Discussion
+
+  - Finalize Deliverables
+  - Finalize Target Dates
+
+
+
+## To Dos
+
+  - Identification of IoT framework for solution
+  - Define the Architecture
+  - Define Security framework & implement security module
+  - Develop Proof of Concept
+  - Deploy and  Display result
